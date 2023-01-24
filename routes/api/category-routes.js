@@ -58,7 +58,7 @@ router.put('/:id', async (req, res) => {
         id: req.params.id,
       },
     });
-    if (!update[0]) {
+    if (!updateCategory[0]) {
       res.status(404).json({ message: 'Invalid ID' });
       return;
     }
