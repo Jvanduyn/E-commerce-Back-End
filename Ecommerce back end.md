@@ -6,6 +6,10 @@
   ## Description
   
   This project is to be able to make a database and be able to update, create,  delete, and  view the database for the eccomerce shop. This project is primarily using routes to be able to use the different modifications to the database created. T This project was able to showcase my skills of being to create and modify a database using back end javascript technologies. 
+
+  ![alt text](./assets/employeevideo.mov)
+
+  https://www.youtube.com/watch?v=JcwYKVIX1yI
   
   ## Table of Contents
   
